@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AD6490A9-B4AA-471C-8D0E-63BA5AF193EF}|CHA_pau_CPlusCMoins.vcxproj|C:\\Users\\paulc\\Documents\\projets vscode\\c\\CHA_pau_CPlusCMoins\\CHA_pau_CPlusCMoins\\cpluscmoins.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD6490A9-B4AA-471C-8D0E-63BA5AF193EF}|CHA_pau_CPlusCMoins.vcxproj|solutionrelative:cpluscmoins.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "stdio.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "ViewState": "AgIAAHMCAAAAAAAAAAAgwIUCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-27T19:19:42.456Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +24,7 @@
               "RelativeDocumentMoniker": "cpluscmoins.c",
               "ToolTip": "C:\\Users\\paulc\\Documents\\projets vscode\\c\\CHA_pau_CPlusCMoins\\CHA_pau_CPlusCMoins\\cpluscmoins.c*",
               "RelativeToolTip": "cpluscmoins.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-10-27T18:39:52.422Z",
               "EditorCaption": ""
