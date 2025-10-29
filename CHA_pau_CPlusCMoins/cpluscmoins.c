@@ -4,6 +4,10 @@
 #include <stdbool.h>
 
 int main() {
+	srand(time(NULL));
+	/*
+	Demande si le joueur veut un nombre d'essais limité.
+	*/
 	char limite;
 	printf("Voulez-vous un nombre d'essais limite ? (O / N)\n");
 	scanf("%c", &limite);
@@ -13,6 +17,7 @@ int main() {
 		printf("Combien d'essais voulez-vous ?");
 		scanf("%d", &nombre_essais);
 	}
+
 	int borne = 0;
 	printf("Jusqu'a quel nombre veux-tu que je choisisse ?");
 	scanf("%d", &borne);
@@ -42,7 +47,7 @@ int main() {
 	}
 	else {
 		printf("Bravo ! Mon nombre etait bien %d !\n", a_trouver);
-		printf("Tu l'as trouvé en %d essais !", essais);
+		printf("Tu l'as trouve en %d essais !", essais);
 	}
 	return 0;
 }
