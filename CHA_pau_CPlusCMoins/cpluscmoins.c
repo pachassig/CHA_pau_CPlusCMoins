@@ -18,6 +18,9 @@ int main() {
 		scanf("%d", &nombre_essais);
 	}
 
+	/*
+	Demande la plage de recherche où générer un nombre aléatoire
+	*/
 	int borne = 0;
 	printf("Jusqu'a quel nombre veux-tu que je choisisse ?");
 	scanf("%d", &borne);
@@ -25,6 +28,10 @@ int main() {
 	int nombre_choisi = -1;
 	printf("J'ai choisi un nombre. Essaie de le trouver !\n");
 	int essais = 0;
+
+	/*
+	Commence le jeu du C'est plus C'est moins
+	*/
 	while (a_trouver != nombre_choisi && nombre_essais > 0) {
 		printf("Choisis un nombre : ");
 		scanf("%d", &nombre_choisi);
@@ -42,6 +49,9 @@ int main() {
 			break;
 		}
 	}
+	/*
+	Affiche un message de victoire ou de défaite en fonction du résultat
+	*/
 	if (nombre_essais == 0) {
 		printf("Dommage ! Mon nombre etait %d !\n", a_trouver);
 	}
